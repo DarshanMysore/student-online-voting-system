@@ -10,7 +10,7 @@ A web-based online voting system developed using PHP and MySQL for conducting se
 
 
 
-🚀 Features
+Features
 
 
 
@@ -30,7 +30,7 @@ A web-based online voting system developed using PHP and MySQL for conducting se
 
 
 
-🛠 Tech Stack
+Tech Stack
 
 
 
@@ -54,7 +54,7 @@ A web-based online voting system developed using PHP and MySQL for conducting se
 
 
 
-📂 Project Structure
+Project Structure
 
 
 
@@ -76,7 +76,7 @@ A web-based online voting system developed using PHP and MySQL for conducting se
 
 
 
-⚙️ Installation
+Installation
 
 
 
@@ -96,7 +96,7 @@ A web-based online voting system developed using PHP and MySQL for conducting se
 
 
 
-📌 Author
+Author
 
 
 
