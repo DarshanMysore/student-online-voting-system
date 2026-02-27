@@ -1,9 +1,6 @@
- Student Online Voting System
-
-
-
+STUDENT ONLINE VOTING SYSTEM
+ 
 A web-based online voting system developed using PHP and MySQL for conducting secure college elections.
-
 
 
 ---
