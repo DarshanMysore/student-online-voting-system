@@ -51,7 +51,7 @@ TECH STACK
 
 
 
-Project Structure
+PROJECT STRUCTURE
 
 
 
