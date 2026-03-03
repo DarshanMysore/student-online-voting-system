@@ -73,7 +73,7 @@ PROJECT STRUCTURE
 
 
 
-Installation
+INSTALLATION
 
 
 
