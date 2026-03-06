@@ -93,8 +93,7 @@ INSTALLATION
 
 
 
-Author
-
+AUTHOR 
 
 
 Darshan P  
