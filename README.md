@@ -27,7 +27,7 @@ Features
 
 
 
-TECH STACK
+Tech Stack
 
 
 
