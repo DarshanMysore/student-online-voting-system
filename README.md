@@ -93,7 +93,7 @@ Installation
 
 
 
-Author 
+AUTHOR
 
 
 Darshan P
