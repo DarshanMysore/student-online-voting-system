@@ -7,7 +7,7 @@ A web-based online voting system developed using PHP and MySQL for conducting se
 
 
 
-Features
+FEATURES
 
 
 
@@ -27,7 +27,7 @@ Features
 
 
 
-Tech Stack
+TECH STACK
 
 
 
