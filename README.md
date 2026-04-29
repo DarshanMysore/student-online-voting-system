@@ -51,7 +51,7 @@ TECH STACK
 
 
 
-Project Structure
+PROJECT STRUCTURE
 
 
 
@@ -73,7 +73,7 @@ Project Structure
 
 
 
-Installation
+INSTALLATION
 
 
 
