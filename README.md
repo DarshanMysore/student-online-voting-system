@@ -7,7 +7,7 @@ A web-based online voting system developed using PHP and MySQL for conducting se
 
 
 
-FEATURES
+Features 
 
 
 
@@ -27,7 +27,7 @@ FEATURES
 
 
 
-TECH STACK
+Tech Stack
 
 
 
@@ -51,7 +51,7 @@ TECH STACK
 
 
 
-PROJECT STRUCTURE
+Project Structure 
 
 
 
@@ -73,7 +73,7 @@ PROJECT STRUCTURE
 
 
 
-INSTALLATION
+Installation
 
 
 
@@ -93,7 +93,7 @@ INSTALLATION
 
 
 
-AUTHOR
+Author 
 
 
 Darshan P
